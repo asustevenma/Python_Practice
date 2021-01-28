@@ -32,3 +32,6 @@ A hitting coach is concerned that one of his hitters chases too much. He asks fo
 
 ## Wargaming
 Wargaming provides a data set which contains gamers' data such as win percentage, spend amount, package sold, play time to answer	what makes players spend money and what makes players buy package.
+
+## Polynomial Regression
+Given a certain product's unit price and unit sold, find the optimal unit price which maximize the revenue
