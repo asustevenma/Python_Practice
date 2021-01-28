@@ -25,3 +25,7 @@ This practice is going to use Amazon Product Co-purchase data to make Book Recom
 * Get the books that are still connected to the purchasedAsin by one hop (called the neighbors of the purchasedAsin) after the above clean-up, and assign the resulting list to purchasedAsinNeighbors
 * Come up with a **composite measure** to make the Top Five book recommendations based on one or more of the following metrics associated with neighbors in purchasedAsinNeighbors
 * Print Top 5 recommendations based on your composite measure
+
+
+## San Francisco Giants Analytics
+A hitting coach is concerned that one of his hitters chases too much. He asks for information that will help him and the hitter work on the problem. Data is provided from TrackMan. Please create any information or visuals that you would give to the coach.
