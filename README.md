@@ -31,4 +31,4 @@ This practice is going to use Amazon Product Co-purchase data to make Book Recom
 A hitting coach is concerned that one of his hitters chases too much. He asks for information that will help him and the hitter work on the problem. Data is provided from TrackMan. Please create any information or visuals that you would give to the coach.
 
 ## Wargaming
-Wargaming provides a data set which contains user' data such as win percentage, free or paid account, game time etc to identify the difference 
+Wargaming provides a data set which contains gamers' data such as win percentage, spend amount, package sold, play time to answer	what makes players spend money and what makes players buy package.
