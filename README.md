@@ -16,3 +16,5 @@ Define a class called similarity.
 •	Code up the Class method called minkowski which takes a single parameter r, and returns the Minkowki Distance between the two dictionaries
 •	Code up the Class method called pearson which takes no parameters, and returns the Pearson Correlation between the two dictionaries
 •	Create an object of class similarity. Initialize it with rating dictionaries UserPRatings and UserQRatings. Call the minkowski and pearson class methods to calculate the measures between the two dictionaries
+
+**This text will be bold**
