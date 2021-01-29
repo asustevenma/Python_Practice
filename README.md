@@ -1,7 +1,7 @@
 # Python_Practice
 
 ## User defined function
-This practice is talking about how to write a user-defined function. Here I build a Pearson correlation function for practing because Pearson correlation is a basic calculation for user-based recommendation system.
+This practice is writing a user-defined function. Here a Pearson correlation function is defined. Pearson correlation is a basic calculation for user-based recommendation system.
 
 Define a function called pearsonD. 
 * The function takes two dictionary parameters and return the Pearson Correlation
@@ -10,7 +10,7 @@ Define a function called pearsonD.
 
 
 ## User defined class
-This practice is talking about how to write a user-defined class. Since I've built a user-defined function to calculate Pearson correlation, I can go into next step to build a user-difined class to contain more functions that will be needed in the following steps.
+This practice is writing a user-defined class. Since a user-defined function is built above to calculate Pearson correlation, we can build a user-difined class to contain more functions that will be needed in the further process.
 
 Define a class called similarity.
 * Code up the Class method called minkowski which takes a single parameter r, and returns the Minkowki Distance between the two dictionaries
