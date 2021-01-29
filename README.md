@@ -35,3 +35,8 @@ Wargaming provides a data set which contains gamers' data such as win percentage
 
 ## Polynomial Regression
 Given a certain product's unit price and unit sold, find the optimal unit price which maximize the revenue
+
+## Time Series Practice
+A simple Time Series analysis practice. Data source: RSFSDPN(Advance Retail Sales: Food Services and Drinking Places), provided by U.S. Census Bureau
+* Simple EDA on data set
+* Applying ARIMA model to 
